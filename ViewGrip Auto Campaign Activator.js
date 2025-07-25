@@ -5,6 +5,7 @@
 // @description  Enables campaign if needed and starts worker
 // @match        https://www.viewgrip.net/worker/start
 // @match        https://www.viewgrip.net/campaign/edit/1299602
+// @match        https://www.youtube.com/*
 // @grant        none
 // ==/UserScript==
 
@@ -22,10 +23,19 @@ if (currentUrl.includes("/worker/start")) {
             clearInterval(checkMessage);
             window.location.href = "https://www.viewgrip.net/campaign/edit/1299602";
         }
-    }, 500);
-    setTimeout(() => clearInterval(checkMessage), 10000);
-}
+    }, 1000);
 
+}
+if (currentUrl.includes("youtube.com")) {
+    const checkMessage = setInterval(() => {
+        const textMessage = document.getElementById("TextMessage");
+        if (textMessage && textMessage.textContent.includes("To run the worker, you must have an active campaign")) {
+            console.log("Detected campaign message on YouTube. Redirecting...");
+            clearInterval(checkMessage);
+            window.location.href = "https://www.viewgrip.net/campaign/edit/1299602";
+        }
+    }, 2000);
+}
 if (currentUrl.includes("/campaign/edit/1299602")) {
     const waitForElements = setInterval(() => {
         const enableRadio = document.querySelector('input[type="radio"][value="enable"]');
