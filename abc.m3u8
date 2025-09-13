@@ -299,6 +299,8 @@ https://live.drmlive-02.workers.dev/zee/9z5398761.m3u8
 https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
 #EXTINF:-1 tvg-logo="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/sony-liv-logo.png" group-title="Liv cricket 50fps",Liv cricket 50fps
 https://dai.google.com/ssai/event/Bplrxzp6SZSY0xB1rOkzVw/master.m3u8
+#EXTINF:-1 tvg-logo="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/sony-liv-logo.png" group-title="Liv cricket english",Liv cricket english
+https://dai.google.com/ssai/event/pJ6I3XzMQfWtBeAnNd8e5w/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
 https://live.drmlive-02.workers.dev/sliv/sony.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD backup
