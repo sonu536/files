@@ -309,6 +309,8 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 https://live.drmlive-02.workers.dev/sliv/sab.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD backup
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD backup 2
+https://dtvxtream.com/sonyliv2/index.php?id=300267&file=master_224.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="Sony Liv",SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",SONY PAL
@@ -351,7 +353,6 @@ https://live.drmlive-02.workers.dev/sliv/pix.m3u8
 https://live.drmlive-02.workers.dev/sliv/marathi.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony Liv",SONY AATH 
 https://live.drmlive-02.workers.dev/sliv/aath.m3u8
-
 #EXTINF:-1 tvg-id="Star-Plus-AU" tvg-name="Star Plus AU" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/star-new1-plus-white.png" group-title="Entertainment",Star Plus AU
 https://live.drmlive-02.workers.dev/yupptv/premium/starplusau.m3u8
 #EXTINF:-1 tvg-id="Star-Bharat-AU" tvg-name="Star Bharat AU" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/life-ok-aud-white.png" group-title="Entertainment",Star Bharat AU
