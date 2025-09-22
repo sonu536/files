@@ -87,7 +87,6 @@ https://live.drmlive-02.workers.dev/jc/529.m3u8
 https://live.drmlive-02.workers.dev/jc/530.m3u8
 #EXTINF:-1 tvg-id="694" group-title="News" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png",News18 JKLH
 https://live.drmlive-02.workers.dev/jc/694.m3u8
-
 #EXTINF:-1 tvg-id="0-9-aajtak" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-aajtak/channel_list/1170x658withlogo019c8cb0af414e68a6008efc72c6a72f.png" group-title="News", Aaj Tak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/aajtak.m3u8
@@ -323,26 +322,45 @@ https://live.drmlive-02.workers.dev/sliv/max.m3u8
 https://live.drmlive-02.workers.dev/sliv/maxhd.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Liv",SONY MAX2
 https://live.drmlive-02.workers.dev/sliv/max2.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sony Liv",SONY TEN 1
-https://live.drmlive-02.workers.dev/sliv/ten1.m3u8
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sony Liv",SONY TEN 2
-https://live.drmlive-02.workers.dev/sliv/ten2.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sony Liv",SONY TEN 3
-https://live.drmlive-02.workers.dev/sliv/ten3.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sony Liv",SONY TEN 4 
-https://live.drmlive-02.workers.dev/sliv/ten4.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sony Liv",SONY TEN 5 
-https://live.drmlive-02.workers.dev/sliv/ten5.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sony Liv",SONY TEN 1 HD
-https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sony Liv",SONY TEN 2 HD
-https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sony Liv",SONY TEN 3 HD
-https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sony Liv",SONY TEN 4 HD
-https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sony Liv",SONY TEN 5 HD
-https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
+#EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 1
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dish.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-2" tvg-name="Sony Sports Ten 2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 2
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dish.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-3" tvg-name="Sony Sports Ten 3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 3
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dish.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-4" tvg-name="Sony Sports Ten 4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 4
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dish.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dish.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 1 HD
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 2 HD
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 3 HD
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 4 HD
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV",Sony Sports Ten 5 HD
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007921/1757497409080169_Bundesliga_25_26_MD4_VfB_Stuttgart_vs_St_Pauli_landscape_thumb.jpg" group-title="SonyLIV",Test Asset - ENG
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008871/1758295323373630_ACC25_IND_VS_BAN_S4_dated_19sep_promo_rev_LANDCAPE_thumb.jpg" group-title="SonyLIV",Upcoming: India vs Bangladesh - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/f1aa758e4dbb4fe7b6e1d26b1db3ede7/1758400768/baseline-std-v4/PROMO_ASIA_CUP_INDIA_VS_BANGLADESH_20_SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008871/1758295218050630_ACC25_PAK_vs_SL_S4_DATED_19sep_rev_promo_landscape_thumb.jpg" group-title="SonyLIV",Upcoming: Pakistan vs Sri Lanka - HIN
+#EXTVLCOPT:http-user-agent=BEXO/31.05
+https://streaming.sonyliv.com/trailer/DASH/41c3260e77634164a523774662c86391/1758400814/baseline-std-v4/PROMO_ASIA_CUP_PAKISTAN_VS_SRILANKA_20_SEC_HOR_DATED_APP_hin_baseline-800300010.mpd
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Sony Liv",SONY BBC EARTH
 https://live.drmlive-02.workers.dev/sliv/bbc.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Sony Liv",SONY YAY
