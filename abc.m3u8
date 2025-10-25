@@ -295,11 +295,14 @@ https://live.drmlive-02.workers.dev/zee/9z5383489.m3u8
 #EXTINF:-1 tvg-id="0-9-9z5398761" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z5398761/channel_list/1170x658withlogodbb904df46d441628b3ab324cbde6745.png" group-title="Devotional", Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/9z5398761.m3u8
-
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
-https://in4.dtvxtream.com/300266.m3u8?__hdnea__=st=1761394103~exp=1761480503~acl=/*~hmac=7328b76153bbf4975cbaa9d9f53f88eb9254f92e4afcb0b0bb3a6aa465be714e
+https://in4.dtvxtream.com/300266.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1761481584~acl=%2f*~id=88f4cf09deef45a0bec7d96ebbf0210d-1761379225~data=hdntl~hmac=b79194e8f1c2fbc6e97c02194b03b8dac8f425b72708be50bdcbda094a0a3ac6/master_900.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
 https://in4.dtvxtream.com/300267.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1761481331~acl=%2f*~id=88f4cf09deef45a0bec7d96ebbf0210d-1761379225~data=hdntl~hmac=4363ebee3969c148926387f23593525a527263012d8eac42997bef8cd9f84f55/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="Sony Liv",SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",SONY PAL
