@@ -300,9 +300,7 @@ https://in4.dtvxtream.com/300266.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1761481584~acl=%2f*~id=88f4cf09deef45a0bec7d96ebbf0210d-1761379225~data=hdntl~hmac=b79194e8f1c2fbc6e97c02194b03b8dac8f425b72708be50bdcbda094a0a3ac6/master_900.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
-https://in4.dtvxtream.com/300267.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1761655796~acl=%2f*~id=88f4cf09deef45a0bec7d96ebbf0210d-1761552026~data=hdntl~hmac=7edbfb67a57ba223e50e2fc3ff1e1902e255334b786c77f0959d3a8824a227f3/master_900.m3u8
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1761746288~acl=%2f*~id=88f4cf09deef45a0bec7d96ebbf0210d-1761638430~data=hdntl~hmac=6e85c903dfca7fcfbf701482027037344b7a19a03dc9ca1123080660e0f1c64c/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="Sony Liv",SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",SONY PAL
