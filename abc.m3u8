@@ -296,9 +296,9 @@ https://live.drmlive-02.workers.dev/zee/9z5383489.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://live.drmlive-02.workers.dev/zee/9z5398761.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv",SONY HD
-https://in4.dtvxtream.com/300266.m3u8
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1763647854~acl=%2f*~id=88f4cf09deef45a0bec7d96ebbf0210d-1763539232~data=hdntl~hmac=8efc22547bfe3b97049afa56c2999f8a1a4a5bfe4eac2ab0b6a43ff44d3bf28d/master_900.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sony Liv",SONY SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1762094041~acl=%2f*~id=88f4cf09deef45a0bec7d96ebbf0210d-1761984028~data=hdntl~hmac=c01e06e539086753f6d06f6e7e8df0fac86e2647c1444699a9ed98ae5ce750d3/master_900.m3u8
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1763647021~acl=%2f*~id=88f4cf09deef45a0bec7d96ebbf0210d-1763539232~data=hdntl~hmac=0ca1bd42d9b18d5f373928d6fe468e272db18a701e99dc18d3af292090727058/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="Sony Liv",SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv",SONY PAL
