@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1766439005~acl=/*~id=56500249348723652193911412256437~hmac=f62578212d690dc8db29376e8b32946e38acd483afad6e3acf74bc3c2309e776
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1768703785~acl=/*~id=31869209362075180940940485793200~hmac=f62578212d690dc8db29376e8b32946e38acd483afad6e3acf74bc3c2309e776
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1771033938~acl=/*~id=58436477573871467658373915690503~hmac=912e71b65b66270f199dbba54ebdd945fec66f9679ff9b1d8d5d6c1a87aaad91
 #EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="Entertainment",Sony Marathii
 https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1766439005~acl=/*~id=56500249348723652193911412256437~hmac=f62578212d690dc8db29376e8b32946e38acd483afad6e3acf74bc3c2309e776
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
