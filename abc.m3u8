@@ -114,3 +114,10 @@ http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276730&extensi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png" group-title="Mac",Star Sports 1 Hindi HD
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276731&extension=ts
+
+#EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7432/567432-h" group-title="T20I World Cup",Star Sports HD2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)
+#EXTHTTP:{"Cookie":"hdntl=exp=1772798111~acl=*sshd2livetv*~id=a300fcca2af4dc56550b3d5cf494f40c~data=hdntl~hmac=bee158a67253acadd104fa4a8b57b76dceb7865e62ff8b8f38054c537fa12cd5","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/"}
+https://livetv-push.hotstar.com/dash/live/2002465/sshd2livetvwv/master.mpd
