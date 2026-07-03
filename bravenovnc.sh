@@ -228,5 +228,5 @@ sudo rm -rf /usr/share/applications/brave-browser.desktop && sudo mv -f ~/brave-
 tigervncserver  -SecurityTypes none  --I-KNOW-THIS-IS-INSECURE -xstartup /usr/bin/openbox -geometry 1366x768 -localhost no :0
 websockify -D --web=/usr/share/novnc/ 8080 localhost:5900
 export DISPLAY=:0
-brave-browser --no-sandbox --test-type --disable-dev-shm-usage --start-maximized --display=:0
+brave-browser --no-sandbox --no-zygote --disable-namespace-sandbox --disable-gpu --disable-dev-shm-usage --dump-dom https://example.com
 echo -e "brave has started go to https://localhost:6080 to access your vnc session"
