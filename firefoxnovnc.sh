@@ -24,4 +24,4 @@ tigervncserver  -SecurityTypes none  --I-KNOW-THIS-IS-INSECURE -xstartup /usr/bi
 websockify -D --web=/usr/share/novnc/  --cert=~/linux-novnc/novnc.pem 6080 localhost:6080
 export DISPlAY=:0
 firefox
-echo -e "novnc server started go https://localhost:6080"
+echo -e "novnc server started go https://localhost:6080/vnc.html"
